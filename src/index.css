@@ -1,0 +1,11 @@
+.app{
+border: 2px solid rgb(100, 89, 89);
+box-shadow: 5px 5px 5px 5px rgb(80, 70, 70,0.8);
+margin-top: 40px;
+padding: 25px;
+min-height: 400px;
+}
+
+*{
+    transition: all 5s ease-in-out;
+}
